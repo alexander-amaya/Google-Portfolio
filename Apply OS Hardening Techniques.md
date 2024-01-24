@@ -54,4 +54,4 @@ The senior analyst analyzed the source code for the websites and downloaded file
 ### Part 3: Reccomend one remediation for brute force attacks
 
 
-The best way that this could have been avoided is by changing the default administrator password. Along with changing it from the start, changing the password every 6 months to a year will also help establish a stronger defense against malicious actors.
+The best way that this could have been avoided is by changing the default administrator password. Along with changing it from the start, changing the password every 6 months to a year will also help establish a stronger defense against malicious actors. Enforcing two-factor authentication will also help establish when someone may be trying to access an account that is not the intended owner. 
