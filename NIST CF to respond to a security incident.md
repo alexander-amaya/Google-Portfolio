@@ -34,3 +34,16 @@ Recover affected systems to normal operation and restore systems data and/or ass
 
 ## Response
 
+### Incident Report Analysis
+|  | |  
+|--------------|--------------|
+| Summary | The company experienced a suddden issue that caused the internal network to be down for two hours. The cybersecurity team found that the issue was caused by a disturbed denial of services (DDoS) attack through the flooding of ICMP packets. The teacm decided to block incoming ICMP packets stopping all non-critical network services offline, and restoring crital network services. |
+| Identify | The team found that the malicious actor had sent a flood of ICMP pings into the company's network through a unconfigured firewall. |
+| Protect | The team implemented a new firewall rule that limits the rate of incoming ICMP packets and an IDS/IPS system to filter out ICMP traffic based on suspicious behavoir. |
+| Detect | The team configured IP address verification on the firewall to check for spoofed IP addresses on incoming ICMP packets and implemented network monitoring software to detect abnormal traffic patterns. |
+| Respond | The team will isolate any infected system to prevent any further spread to the network. They will attempt to restore any sensitive information that was compromised. The team will then review logs to check for any suspicious activity. |
+| Recover | To recover from a DDoS attack by ICMP flooding, access to network services need to be restored to a normal functioning state. In the future, external ICMP flood attacks can be blocked at the firewall. Then, all non-critical network services should be stopped to reduce internal network traffic. Next, critical network services should be restored first. Finally, once the flood of ICMP packets have timed out, all non-critical network systems and services can be brought back online. |
+
+
+
+
