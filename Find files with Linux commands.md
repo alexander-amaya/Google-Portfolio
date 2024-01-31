@@ -11,3 +11,7 @@ Here’s how you’ll do this: First, you’ll get the information of the curren
 
 
 
+
+https://github.com/alexander-amaya/Google-Portfolio/assets/155834535/b597ec66-553b-48dc-8bce-49a48663ec26
+
+
