@@ -32,6 +32,7 @@ home
         ├── Q1patches.txt
         └── Q2patches.txt
         └── Q3patches.txt
+        
 Here’s how you’ll do this: First, you’ll create a new subdirectory called logs in the /home/analyst directory. Next, you’ll remove the temp subdirectory. Then, you’ll move the Q3patches.txt file to the reports subdirectory and delete the tempnotes.txt file. Finally, you’ll create a new .txt file called tasks in the notes subdirectory and add a note to the file describing the tasks you've performed.
 
 
