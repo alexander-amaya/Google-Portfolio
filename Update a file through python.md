@@ -11,21 +11,27 @@ Your task is to create an algorithm that uses Python code to check whether the a
 ## Response
 
 ### Open the file that conatins the allow list
+![image](https://github.com/alexander-amaya/Google-Portfolio/assets/155834535/30fedee5-4ae1-4d28-a2df-42103fe859b3)
 
 
 ### Read the file contents
+![image](https://github.com/alexander-amaya/Google-Portfolio/assets/155834535/abe000da-2eb3-4989-a6f2-f5de51615bde)
 
 
 ### Convert the string into a list
+![image](https://github.com/alexander-amaya/Google-Portfolio/assets/155834535/65f8c743-62c9-4989-8bd3-8abe8777113d)
 
 
 ### Iterate through the remove list
+![image](https://github.com/alexander-amaya/Google-Portfolio/assets/155834535/dca8dbe3-cc29-4871-bf51-8b1065913f78)
 
 
 ### Remove IP addresses that are on the remove list
+![image](https://github.com/alexander-amaya/Google-Portfolio/assets/155834535/47837680-96a0-464f-902f-1d3afe2a52ac)
 
 
 ### Update the file with the revised list of IP addresses
+![image](https://github.com/alexander-amaya/Google-Portfolio/assets/155834535/605ed9b8-7aef-44db-b4f0-506a4831f97c)
 
 
 ### Summary
